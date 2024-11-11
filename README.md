@@ -81,6 +81,6 @@ Iniciar servicio
 sudo systemctl start asus-ttpn.service
 ```
 
-# Configuraciones adicionales
+## Configuraciones adicionales
 
 Adicionalmente, se puede modificar el tiempo en que la notificación permanecerá visible, para ello dentro del script `monitor.sh` modifique el valor de la variable `timeout` por el tiempo en milisegundos que se desea.
